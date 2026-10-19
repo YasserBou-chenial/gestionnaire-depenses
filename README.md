@@ -2,7 +2,7 @@
 
 Application React (Vite) pour suivre ses dépenses mensuelles et les comparer à un budget.
 
-**Démo :** _ajoute ici le lien Vercel/Netlify_
+**Démo :** https://gestionnaire-depenses-five.vercel.app/
 **Capture d'écran :** _ajoute ici une image_
 
 ## Fonctionnalités
